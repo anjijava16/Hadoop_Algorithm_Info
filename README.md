@@ -17,3 +17,18 @@ v) K-Means Clustering in Mahout (http://unmeshasreeveni.blogspot.in/2014/11/how-
 vi) Apriori Algorithm (http://unmeshasreeveni.blogspot.in/2014/08/example-for-apriori-algorithm.html)
 
 vii) Navie Bayes Algorithm (Machine Learning Alog) http://unmeshasreeveni.blogspot.in/2014/05/how-to-workout-navie-bayes-algorithm.html 
+
+
+viii) http://unmeshasreeveni.blogspot.in/2014_05_01_archive.html
+
+http://www.hadooptpoint.com/hive-complex-data-types-example/#codesyntax_7 (Complex DataTyes)
+
+http://wpcertification.blogspot.in/2014/07/using-apache-oozie-to-execute-mapreduce.html
+
+https://www.youtube.com/watch?v=gMzTgUk1uqg
+
+## Some Hadoop POC sites
+https://understanding-hadoop-by-mahesh.blogspot.in/2017/02/xml-file-processing-in-hadoop.html
+
+
+
