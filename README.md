@@ -37,6 +37,11 @@ https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL
 
 
 https://indico.cern.ch/event/434650/https://indico.cern.ch/event/434650/https://indico.cern.ch/event/434650/
+
+# JDK 8
+http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html
+
+
 ## Some Hadoop POC sites
 https://understanding-hadoop-by-mahesh.blogspot.in/2017/02/xml-file-processing-in-hadoop.html
 
