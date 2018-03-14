@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=gMzTgUk1uqg
 
 x) http://ita.ee.lbl.gov/html/traces.html
 
+xi) http://nverma-tech-blog.blogspot.in/
+
 https://indico.cern.ch/event/434650/
 
 https://hortonworks.com/hadoop-tutorial/using-hive-data-analysis/
