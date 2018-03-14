@@ -57,6 +57,17 @@ https://www.edureka.co/blog/hbase-architecture/?utm_source=blog&utm_medium=blog-
 
 http://www.hub4tech.com/oozie-tutorial
 
+http://stackoverflow.com/questions/32385425/hive-select-data-into-an-array-of-structs
+
+https://github.com/klout/brickhouse/blob/master/src/main/java/brickhouse/udf/collect/CollectUDAF.java
+
+
+http://dl3.checkpoint.com/paid/cd/cd2fc4b2e74f31b5f76b7e11ec1e8698/CheckPointVPN.msi?HashKey=1487598440_8d64aae1b7abc0ed060cb458db6fb405&xtn=.msi 
+
+
+https://community.hortonworks.com/questions/19478/beeline-select-query.html (beeline File Separtor)
+
+https://cwiki.apache.org/confluence/display/Hive/HiveServer2+Clients
 
 
 
