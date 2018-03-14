@@ -27,8 +27,42 @@ http://wpcertification.blogspot.in/2014/07/using-apache-oozie-to-execute-mapredu
 
 https://www.youtube.com/watch?v=gMzTgUk1uqg
 
+x) http://ita.ee.lbl.gov/html/traces.html
+
+https://indico.cern.ch/event/434650/
+
+https://hortonworks.com/hadoop-tutorial/using-hive-data-analysis/
+
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL
+
+
+https://indico.cern.ch/event/434650/https://indico.cern.ch/event/434650/https://indico.cern.ch/event/434650/
 ## Some Hadoop POC sites
 https://understanding-hadoop-by-mahesh.blogspot.in/2017/02/xml-file-processing-in-hadoop.html
+
+http://www.guru99.com/data-operations-hive.html
+
+
+http://hadooptutorials.co.in/tutorials/hive/hive-best-practices.html
+
+
+http://hadooptutorials.co.in/tutorials/hive/hive-best-practices.html
+
+
+https://docs.treasuredata.com/articles/hive
+
+
+https://www.edureka.co/blog/hive-commands-with-examples
+https://www.edureka.co/blog/hbase-architecture/?utm_source=blog&utm_medium=blog-cta&utm_campaign=hbase-tutorial-n
+
+http://www.hub4tech.com/oozie-tutorial
+
+
+
+
+
+http://www.hub4tech.com/interview/hadoop-and-mapreduce?page=10
+
 
 
 
